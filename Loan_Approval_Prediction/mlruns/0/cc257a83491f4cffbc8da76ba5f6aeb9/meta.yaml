@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gbegb/GreatLearning/AIML/Loan_Approval_Prediction/mlruns/0/cc257a83491f4cffbc8da76ba5f6aeb9/artifacts
+end_time: 1735368342218
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc257a83491f4cffbc8da76ba5f6aeb9
+run_name: judicious-hen-5
+run_uuid: cc257a83491f4cffbc8da76ba5f6aeb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735368336870
+status: 3
+tags: []
+user_id: gbegb

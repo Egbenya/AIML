@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gbegb/GreatLearning/AIML/Loan_Approval_Prediction/mlruns/0/eef7dc0c62ce4e2c8bbfd8d8e8c2f955/artifacts
+end_time: 1735368347659
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eef7dc0c62ce4e2c8bbfd8d8e8c2f955
+run_name: classy-rook-141
+run_uuid: eef7dc0c62ce4e2c8bbfd8d8e8c2f955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735368342236
+status: 3
+tags: []
+user_id: gbegb

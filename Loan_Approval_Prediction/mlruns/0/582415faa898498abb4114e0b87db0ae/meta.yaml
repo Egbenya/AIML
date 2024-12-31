@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gbegb/GreatLearning/AIML/Loan_Approval_Prediction/mlruns/0/582415faa898498abb4114e0b87db0ae/artifacts
+end_time: 1735368364512
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 582415faa898498abb4114e0b87db0ae
+run_name: ambitious-sloth-713
+run_uuid: 582415faa898498abb4114e0b87db0ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735368358797
+status: 3
+tags: []
+user_id: gbegb

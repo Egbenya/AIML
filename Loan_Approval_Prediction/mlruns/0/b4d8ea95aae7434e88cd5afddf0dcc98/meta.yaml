@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gbegb/GreatLearning/AIML/Loan_Approval_Prediction/mlruns/0/b4d8ea95aae7434e88cd5afddf0dcc98/artifacts
+end_time: 1735369999055
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b4d8ea95aae7434e88cd5afddf0dcc98
+run_name: spiffy-roo-659
+run_uuid: b4d8ea95aae7434e88cd5afddf0dcc98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735369998716
+status: 3
+tags: []
+user_id: gbegb

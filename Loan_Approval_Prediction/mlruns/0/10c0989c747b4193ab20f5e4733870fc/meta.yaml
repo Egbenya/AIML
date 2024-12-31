@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gbegb/GreatLearning/AIML/Loan_Approval_Prediction/mlruns/0/10c0989c747b4193ab20f5e4733870fc/artifacts
+end_time: 1735368916280
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10c0989c747b4193ab20f5e4733870fc
+run_name: sassy-moth-530
+run_uuid: 10c0989c747b4193ab20f5e4733870fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735368916186
+status: 3
+tags: []
+user_id: gbegb

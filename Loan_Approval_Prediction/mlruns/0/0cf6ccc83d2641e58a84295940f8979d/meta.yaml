@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gbegb/GreatLearning/AIML/Loan_Approval_Prediction/mlruns/0/0cf6ccc83d2641e58a84295940f8979d/artifacts
+end_time: 1735368280656
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0cf6ccc83d2641e58a84295940f8979d
+run_name: ambitious-bird-906
+run_uuid: 0cf6ccc83d2641e58a84295940f8979d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735368274891
+status: 3
+tags: []
+user_id: gbegb

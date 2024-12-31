@@ -1,0 +1,9 @@
+digest: 63fdd000
+name: dataset
+profile: '{"features_shape": [683, 11], "features_size": 7513, "features_nbytes":
+  60104}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 11]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "gbegb", "mlflow.source.name": "C:\\Users\\gbegb\\GreatLearning\\AIML\\Loan_Approval_Prediction\\train.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "20a333ce08ecb318b72506cf6860b5a2ae2b8aa6"}}'
+source_type: code

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gbegb/GreatLearning/AIML/Loan_Approval_Prediction/mlruns/0/d0f19e29c8154f5ebd9578d9f311548d/artifacts
+end_time: 1735368292271
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d0f19e29c8154f5ebd9578d9f311548d
+run_name: salty-conch-738
+run_uuid: d0f19e29c8154f5ebd9578d9f311548d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735368286669
+status: 3
+tags: []
+user_id: gbegb

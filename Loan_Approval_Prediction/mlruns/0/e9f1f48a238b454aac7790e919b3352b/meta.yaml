@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gbegb/GreatLearning/AIML/Loan_Approval_Prediction/mlruns/0/e9f1f48a238b454aac7790e919b3352b/artifacts
+end_time: 1735368258154
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e9f1f48a238b454aac7790e919b3352b
+run_name: amazing-squirrel-544
+run_uuid: e9f1f48a238b454aac7790e919b3352b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735368252962
+status: 3
+tags: []
+user_id: gbegb

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gbegb/GreatLearning/AIML/Loan_Approval_Prediction/mlruns/0/22e608c5a53e4ff5bd94cc266b957042/artifacts
+end_time: 1735368246946
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22e608c5a53e4ff5bd94cc266b957042
+run_name: calm-pug-356
+run_uuid: 22e608c5a53e4ff5bd94cc266b957042
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735368241197
+status: 3
+tags: []
+user_id: gbegb

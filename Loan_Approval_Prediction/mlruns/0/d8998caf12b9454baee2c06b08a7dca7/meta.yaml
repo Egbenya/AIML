@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gbegb/GreatLearning/AIML/Loan_Approval_Prediction/mlruns/0/d8998caf12b9454baee2c06b08a7dca7/artifacts
+end_time: 1735368304525
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8998caf12b9454baee2c06b08a7dca7
+run_name: debonair-chimp-323
+run_uuid: d8998caf12b9454baee2c06b08a7dca7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735368298349
+status: 3
+tags: []
+user_id: gbegb

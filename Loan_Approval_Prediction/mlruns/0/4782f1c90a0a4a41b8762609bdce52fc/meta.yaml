@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gbegb/GreatLearning/AIML/Loan_Approval_Prediction/mlruns/0/4782f1c90a0a4a41b8762609bdce52fc/artifacts
+end_time: 1735369821139
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4782f1c90a0a4a41b8762609bdce52fc
+run_name: resilient-gnat-629
+run_uuid: 4782f1c90a0a4a41b8762609bdce52fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735369820692
+status: 3
+tags: []
+user_id: gbegb

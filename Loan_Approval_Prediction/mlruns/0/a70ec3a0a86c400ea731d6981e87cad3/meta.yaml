@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gbegb/GreatLearning/AIML/Loan_Approval_Prediction/mlruns/0/a70ec3a0a86c400ea731d6981e87cad3/artifacts
+end_time: 1735368517648
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a70ec3a0a86c400ea731d6981e87cad3
+run_name: salty-zebra-170
+run_uuid: a70ec3a0a86c400ea731d6981e87cad3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735368509489
+status: 3
+tags: []
+user_id: gbegb

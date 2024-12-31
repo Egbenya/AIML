@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gbegb/GreatLearning/AIML/Loan_Approval_Prediction/mlruns/0/192ff10eee274d57b7630685b6c54fda/artifacts
+end_time: 1735369322956
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 192ff10eee274d57b7630685b6c54fda
+run_name: zealous-jay-771
+run_uuid: 192ff10eee274d57b7630685b6c54fda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735369322869
+status: 3
+tags: []
+user_id: gbegb

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gbegb/GreatLearning/AIML/Loan_Approval_Prediction/mlruns/0/3177ae9167774f42a27e12bfe40e3de3/artifacts
+end_time: 1735370295757
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3177ae9167774f42a27e12bfe40e3de3
+run_name: polite-flea-663
+run_uuid: 3177ae9167774f42a27e12bfe40e3de3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735370295356
+status: 3
+tags: []
+user_id: gbegb

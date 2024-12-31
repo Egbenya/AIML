@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gbegb/GreatLearning/AIML/Loan_Approval_Prediction/mlruns/0/571dc69ebcbc49e89da8c9522ba95f3c/artifacts
+end_time: 1735370137523
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 571dc69ebcbc49e89da8c9522ba95f3c
+run_name: youthful-skunk-450
+run_uuid: 571dc69ebcbc49e89da8c9522ba95f3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735370137175
+status: 3
+tags: []
+user_id: gbegb

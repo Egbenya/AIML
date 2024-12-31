@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gbegb/GreatLearning/AIML/Loan_Approval_Prediction/mlruns/0/d5ed9f7a71374dcf9b113bc1174d9860/artifacts
+end_time: 1735368358779
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5ed9f7a71374dcf9b113bc1174d9860
+run_name: zealous-carp-181
+run_uuid: d5ed9f7a71374dcf9b113bc1174d9860
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735368353431
+status: 3
+tags: []
+user_id: gbegb

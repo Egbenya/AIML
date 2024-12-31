@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gbegb/GreatLearning/AIML/Loan_Approval_Prediction/mlruns/0/31d77c4e86ff4744ad7ad331daf18262/artifacts
+end_time: 1735369727804
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31d77c4e86ff4744ad7ad331daf18262
+run_name: sincere-toad-65
+run_uuid: 31d77c4e86ff4744ad7ad331daf18262
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735369727784
+status: 4
+tags: []
+user_id: gbegb

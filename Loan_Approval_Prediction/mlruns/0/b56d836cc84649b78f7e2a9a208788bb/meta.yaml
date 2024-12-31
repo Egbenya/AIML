@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gbegb/GreatLearning/AIML/Loan_Approval_Prediction/mlruns/0/b56d836cc84649b78f7e2a9a208788bb/artifacts
+end_time: 1735368353404
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b56d836cc84649b78f7e2a9a208788bb
+run_name: auspicious-panda-676
+run_uuid: b56d836cc84649b78f7e2a9a208788bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735368347679
+status: 3
+tags: []
+user_id: gbegb

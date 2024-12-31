@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gbegb/GreatLearning/AIML/Loan_Approval_Prediction/mlruns/0/a73a61dc8d8b407883e162df0d8d15a7/artifacts
+end_time: 1735368224058
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a73a61dc8d8b407883e162df0d8d15a7
+run_name: shivering-bug-7
+run_uuid: a73a61dc8d8b407883e162df0d8d15a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735368212438
+status: 3
+tags: []
+user_id: gbegb

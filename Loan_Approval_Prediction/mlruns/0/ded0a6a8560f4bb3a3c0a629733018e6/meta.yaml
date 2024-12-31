@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gbegb/GreatLearning/AIML/Loan_Approval_Prediction/mlruns/0/ded0a6a8560f4bb3a3c0a629733018e6/artifacts
+end_time: 1735368269223
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ded0a6a8560f4bb3a3c0a629733018e6
+run_name: treasured-ram-775
+run_uuid: ded0a6a8560f4bb3a3c0a629733018e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735368263558
+status: 3
+tags: []
+user_id: gbegb
